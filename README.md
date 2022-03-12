@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando na JM Apoio Administrativo
 
-- 🌱 Atualmente estou aprendendo *Python, Javascript e ferramentas básicas front-end*
+- 🌱 Atualmente estou aprendendo *Python, Java, Javascript e ferramentas básicas front-end*
 
 - 💖 Apaixonada por Tecnologia.
 
