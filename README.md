@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋,me Chamo Yasmin Vieira 🚀</h1>
+<h1 align="center">Olá 👋,me chamo Yasmin Vieira 🚀</h1>
 
 - 🔭 Atualmente estou trabalhando na JM Apoio Administrativo
 
